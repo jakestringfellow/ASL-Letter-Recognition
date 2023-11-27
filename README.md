@@ -1,6 +1,6 @@
 # ASL-Letter-Recognition
 
-<img align="right" src="" width="360px" alt="picture">
+<img align="right" src="https://github.com/jakestringfellow/ASL-Letter-Recognition/blob/main/support/B.png" width="360px" alt="picture">
 
 <img align="center" src="" width="360px" alt="picture">
 
