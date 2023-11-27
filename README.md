@@ -1,9 +1,9 @@
 # ASL-Letter-Recognition
-<img align="left" src="https://github.com/jakestringfellow/ASL-Letter-Recognition/blob/main/support/C.png" width="340px" alt="picture">
+<img align="left" src="https://github.com/jakestringfellow/ASL-Letter-Recognition/blob/main/support/C.png" width="300px" alt="picture">
 
-<img align="right" src="https://github.com/jakestringfellow/ASL-Letter-Recognition/blob/main/support/B.png" width="340px" alt="picture">
+<img align="right" src="https://github.com/jakestringfellow/ASL-Letter-Recognition/blob/main/support/B.png" width="300px" alt="picture">
 
-<img align="center" src="https://github.com/jakestringfellow/ASL-Letter-Recognition/blob/main/support/V.png" width="340px" alt="picture">
+<img align="center" src="https://github.com/jakestringfellow/ASL-Letter-Recognition/blob/main/support/V.png" width="300px" alt="picture">
 
 ## Introduction:
 * This project is designed to recognize hand gestures using the American Sign Language (ASL) alphabet in real time. It includes a hand tracking module, a main application script (main.py), and a model training script (modelTraining.py), all working together to achieve accurate gesture recognition.
