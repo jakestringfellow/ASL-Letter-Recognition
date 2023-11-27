@@ -33,13 +33,13 @@
                         		- support/signData/sign_mnist_train.csv
                         		- support/sign.names
                       
-*	                       - In Pycharm, run the current file (while in modelTraining.py)
-*	                   - have the following files in the current directory for program running:
+*			- In Pycharm, run the current file (while in modelTraining.py)
+*			- have the following files in the current directory for program running:
 				- handTrackingModule.py
   			 	- main.py
 				- support/ASL_Model (created by the modelTraining run)
                         	- support/sign.names
-*                   - Run the main file
+*                   	- Run the main file
 
 ## Acknowledgements:
 * Sign MNIST dataset: https://www.kaggle.com/datasets/datamunge/sign-language-mnist
