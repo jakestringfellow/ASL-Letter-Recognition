@@ -1,9 +1,9 @@
 # ASL-Letter-Recognition
-<img align="left" src="https://github.com/jakestringfellow/ASL-Letter-Recognition/blob/main/support/C.png" width="600px" alt="picture">
+<img align="left" src="https://github.com/jakestringfellow/ASL-Letter-Recognition/blob/main/support/C.png" width="500px" alt="picture">
 
-<img align="left" src="https://github.com/jakestringfellow/ASL-Letter-Recognition/blob/main/support/B.png" width="600px" alt="picture">
+<img align="left" src="https://github.com/jakestringfellow/ASL-Letter-Recognition/blob/main/support/B.png" width="500px" alt="picture">
 
-<img align="left" src="https://github.com/jakestringfellow/ASL-Letter-Recognition/blob/main/support/V.png" width="600px" alt="picture">
+<img align="left" src="https://github.com/jakestringfellow/ASL-Letter-Recognition/blob/main/support/V.png" width="500px" alt="picture">
 
 <br clear="left"/>
 
